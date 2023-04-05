@@ -15,7 +15,7 @@ HopeInMind Platform is a web-based platform that aims to create a safe space for
 ## Technologies Used:
 - HTML/CSS for the frontend design
 - Python Flask for the backend server
-- MySql database for storing user information
+- SQL database for storing user information
 - JavaScript for frontend interactivity
 - Bootstrap framework for responsive design
 
